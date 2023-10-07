@@ -1,0 +1,15 @@
+{
+  "name": "the-learning-landing",
+  "version": "1.0.0",
+  "description": "Landing page using async concepts, but with a main purpose of retrieving educational information about software engineering.",
+  "main": "index.js",
+  "scripts": {
+    "deploy": "gh-pages -d src"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "gh-pages": "^6.0.0"
+  }
+}
